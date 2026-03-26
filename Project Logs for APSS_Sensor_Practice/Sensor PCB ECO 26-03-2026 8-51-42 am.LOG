@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Add Pin To Net: Unknown Pin: Pin SB2-2
+Change Net Name : Old Net Name=NetD?_POS New Net Name=NetD1_POS
+Added Pin To Net: NetName=NetD2_POS Pin=D2-POS
+Added Pin To Net: NetName=NetD2_POS Pin=R6-1
+Added Net: Name=NetD2_POS
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED-SMD-RED-DIFFUSED(0603)

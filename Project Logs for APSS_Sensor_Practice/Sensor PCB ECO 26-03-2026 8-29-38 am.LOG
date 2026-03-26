@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=DS1-2
+Removed Pin From Net: NetName=GND Pin=DS2-2
+Added Component: Designator=D1(LED-0603)
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED-0603)
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1-C
+Add Pin To Net: Unknown Pin: Pin D2-C
+Add Pin To Net: Unknown Pin: Pin SB2-2
+Added Pin To Net: NetName=NetD1_A Pin=R3-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=R6-1
+Added Net: Name=NetD2_A
+Added Member To Class: ClassName=Sheet1 Member=Component D1 =Value
+Added Member To Class: ClassName=Sheet1 Member=Component D2 =Value

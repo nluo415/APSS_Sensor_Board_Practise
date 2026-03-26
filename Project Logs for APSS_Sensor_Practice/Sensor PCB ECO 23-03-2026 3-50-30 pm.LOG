@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=J1-P$1
+Removed Pin From Net: NetName=GND Pin=J1-P$5
+Removed Pin From Net: NetName=GND Pin=J1-P$10
+Removed Pin From Net: NetName=CAM_RX Pin=J1-P$11
+Removed Pin From Net: NetName=CAM_TX Pin=J1-P$12
+Removed Pin From Net: NetName=CAM_IO15 Pin=J1-P$13
+Removed Pin From Net: NetName=CAM_IO14 Pin=J1-P$14
+Removed Pin From Net: NetName=5V Pin=SB1-1
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPACITOR_0805_2012M-70N"; UniqueID = "\MDXOCGUK" ("\MDXOCGUK")
+Change component parameters (AddParameter): Name = "Capacitance at Rated Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temp Range"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H1(HEADER_2.54MM_1x8PIN)
+Added Component: Designator=H2(HEADER_2.54MM_1x8PIN)
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=CAM_RX Pin=H1-3
+Added Pin To Net: NetName=CAM_TX Pin=H1-4
+Added Pin To Net: NetName=CAM_IO15 Pin=H1-5
+Added Pin To Net: NetName=CAM_IO14 Pin=H1-6
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-5
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=SB1-2
+Added Net: Name=NetH1_1
+Added Pin To Net: NetName=NetH2_8 Pin=H2-8
+Added Pin To Net: NetName=NetH2_8 Pin=SB2-1
+Added Net: Name=NetH2_8
+Added Member To Class: ClassName=Sheet1 Member=Component H1 HDR,2.54mm,1x8
+Added Member To Class: ClassName=Sheet1 Member=Component H2 HDR,2.54mm,1x8

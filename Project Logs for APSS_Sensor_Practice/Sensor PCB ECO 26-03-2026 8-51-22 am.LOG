@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Added Component: Designator=D?(LED-0603)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/19-217/R6C-AL1M2VY/3T/Everlight/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Everlight Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "19-217/R6C-AL1M2VY/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Everlight Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/19-217/R6C-AL1M2VY/3T/Everlight/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED-0603)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/19-217/R6C-AL1M2VY/3T/Everlight/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Everlight Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "19-217/R6C-AL1M2VY/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Everlight Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/19-217/R6C-AL1M2VY/3T/Everlight/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-NEG
+Added Pin To Net: NetName=GND Pin=D?-NEG
+Add Pin To Net: Unknown Pin: Pin SB2-2
+Added Pin To Net: NetName=NetD?_POS Pin=D?-POS
+Added Pin To Net: NetName=NetD?_POS Pin=R3-1
+Added Net: Name=NetD?_POS
+Add Net: Net with name "NetD?_POS" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component D? LED-SMD-RED-DIFFUSED(0603)
+Added Member To Class: ClassName=Sheet1 Member=Component D? LED-SMD-RED-DIFFUSED(0603)
